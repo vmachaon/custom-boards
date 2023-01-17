@@ -11,7 +11,7 @@
           "architecture": "sam",
           "version": "1.0.0",
           "deprecated": false,
-          "category": "Custom",
+          "category": "Contributed",
           "url": "https://github.com/vmachaon/custom-boards/blob/main/mbc/mbc-1.0.0.tar.bz2",
           "archiveFileName": "mbc-1.0.0.tar.bz2",
           "checksum": "SHA-256:109f28ed4ca0754f88aa71561a7248a664ca8e0a9a9ffb597e89226bbc761134",
